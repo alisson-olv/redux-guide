@@ -1,3 +1,4 @@
+// JUST EXAMPLE FROM OLD REDUX CODE
 import { CartActionsType } from './action-types';
 
 export const addProductToCart = (payload) => ({
